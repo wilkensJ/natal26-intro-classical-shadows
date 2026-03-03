@@ -1,5 +1,9 @@
+# !! New deadline for the challenge: 18.03.2026 !!
+Please send your solutions and the code plus a short CV and motivational letter to jadwiga.wilkens(at)jku.at.
+
 # Quantum at the Dunes 2026 in Natal
 ## Lecture Notes on Introduction to Classical Shadows
+
 
 The challenge:
 # A Classical Shadows Challenge: Estimating Overlap between two single qubit quantum states
